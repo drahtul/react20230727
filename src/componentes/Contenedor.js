@@ -4,7 +4,7 @@ const Contenedor = () => {
   return (
     <div>
         <header>
-            <h1>App Clima</h1>
+            <h1>El Clima</h1>
             <nav>Navegación</nav>
             <hr/>
         </header>
